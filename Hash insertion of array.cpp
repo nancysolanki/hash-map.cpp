@@ -3,7 +3,6 @@ using namespace std;
 
 void printItinerary(map<string, string> dataSet) 
 { 
-	// To store reverse of given map 
 	map<string, string> reversemap; 
 	map<string, string>::iterator it; 
 
