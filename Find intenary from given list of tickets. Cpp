@@ -13,9 +13,6 @@ void printItinerary(map<string, string> dataSet)
 
     map<string, string>::iterator it; 
 
-  
-
-    // To fill reverse map, iterate through the given map 
 
     for (it = dataSet.begin(); it!=dataSet.end(); it++) 
 
